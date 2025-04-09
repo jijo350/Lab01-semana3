@@ -12,6 +12,7 @@ namespace Ejemplo
         {
             Console.WriteLine("Bienvenidos al curso C#");
             Console.WriteLine("Bienvenidos al curso C#);
+            Console.Write("Bienvenidos al curso C#");
             Console.ReadKey();
         }
     }
