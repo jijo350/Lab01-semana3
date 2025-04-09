@@ -11,6 +11,7 @@ namespace Ejemplo
         static void Main(string[] args)
         {
             Console.WriteLine("Bienvenidos al curso C#");
+            Console.WriteLine("Bienvenidos al curso C#);
             Console.ReadKey();
         }
     }
